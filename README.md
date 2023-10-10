@@ -1,2 +1,2 @@
-Made a Password Generator using REACT.
+Made a Password Generator using REACT.<br>
 Site: 
